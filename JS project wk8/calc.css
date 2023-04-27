@@ -1,0 +1,23 @@
+.container {
+  background-image: url("bg3.png");
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-color: red;
+}
+
+#results {
+    display:none;
+  }
+
+  .card {
+  background-color: #ffffff;
+  padding: 20px;
+  height: 650px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+  
